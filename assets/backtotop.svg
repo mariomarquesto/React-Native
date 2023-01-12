@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="51.682mm" height="53.975mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 614 641"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#FEFEFE;stroke-width:0.905239}
+    .fil0 {fill:#551BCC}
+    .fil1 {fill:#FEFEFE;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2459139464800">
+   <ellipse class="fil0" cx="307" cy="321" rx="307" ry="321"/>
+   <path class="fil1 str0" d="M216 316c9,9 26,3 35,-6l23 -27c3,-3 11,-2 11,1l-1 145c0,13 8,24 21,24 13,0 20,-10 20,-23l-1 -144c0,-4 6,-7 9,-5l25 31c9,9 22,11 32,2 9,-9 -2,-27 -11,-36l-62 -71c-7,-8 -20,-8 -27,0l-64 71c-9,9 -19,29 -10,39z"/>
+  </g>
+ </g>
+</svg>
